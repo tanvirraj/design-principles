@@ -54,3 +54,5 @@ https://www.youtube.com/playlist?list=PLvupmfiBBuFin7TuyolmuZ9tD67vwAopT
 
 clean code
 https://github.com/ryanmcdermott/clean-code-javascript#solid
+
+https://khalilstemmler.com/articles/solid-principles/solid-typescript/
