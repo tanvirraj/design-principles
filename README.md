@@ -47,6 +47,8 @@ for more example
 https://github.com/yock/solid
 https://github.com/jacksono/solid-principles
 https://github.com/andres-cox/SOLID-Design-Principles
+https://github.com/nahidulhasan/solid-principles
+
 
 video
 https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9
